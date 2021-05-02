@@ -707,7 +707,7 @@ header:before {
 .logo-holder {
     float: left;
     position: relative;
-    width: 90px;
+    /* width: 90px; */
     z-index: 21;
     top: 20px;
 }
